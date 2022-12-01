@@ -1,4 +1,4 @@
-# site0001
+
 <html>
     <title>Моё домашнее животное</title>
     <body style="background:lightblue;font-family:sans-serif">
